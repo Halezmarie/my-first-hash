@@ -2,10 +2,8 @@
 def my_hash
   {"John"=>"Haley","Catherine"=>"Philipp","Biscotto"=>"Derty"}
   
-  
   end
-  
-  
+   
   def shipping_manifest
     # set a variable called `the_manifest`, equal to a hash
     # fill that hash with key/value pairs that describe the following information: 
